@@ -94,7 +94,7 @@
   }
 
   featuredImageFiles.forEach(function (fileName) {
-    appendGalleryItem(featuredGalleryEl, fileName, getLabel(fileName));
+    appendGalleryItem(featuredGalleryEl, fileName, "");
   });
 
   miscImageFiles.forEach(function (fileName) {
