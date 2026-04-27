@@ -56,10 +56,10 @@
       return "After";
     }
     if (lower === "a during 1.jpeg") {
-      return "During (1)";
+      return "In progress";
     }
     if (lower === "a during 2.jpeg") {
-      return "During (2)";
+      return "Testing";
     }
     if (lower.indexOf("before") !== -1) {
       return "Before";
