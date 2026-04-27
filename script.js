@@ -22,7 +22,6 @@
     "bench-after-2.jpeg",
     "received_1261280752783359.jpeg",
     "received_1281633664064407.jpeg",
-    "received_1323014286485481.jpeg",
     "received_1467764741797439.jpeg",
     "received_1476862604091800.jpeg",
     "received_1479018893777472.jpeg",
