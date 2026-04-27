@@ -359,19 +359,6 @@ section[id] {
   box-shadow: var(--shadow);
 }
 
-.gallery-item figcaption {
-  margin-top: var(--space-sm);
-  font-size: 0.875rem;
-  color: var(--color-text-muted);
-}
-
-.gallery-grid--featured .gallery-item figcaption {
-  margin-top: var(--space-xs);
-  font-weight: 600;
-  text-align: center;
-  color: var(--color-accent);
-}
-
 /* ----- Contact ----- */
 
 .contact-section {
